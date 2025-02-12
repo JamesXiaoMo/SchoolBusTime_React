@@ -47,6 +47,7 @@ export default function _Appbar() {
           </Typography>
         </Toolbar>
       </AppBar>
+      <Toolbar />
     </Box>
   );
 }

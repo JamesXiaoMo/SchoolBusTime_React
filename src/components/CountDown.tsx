@@ -4,7 +4,7 @@ import Typography from "@mui/material/Typography";
 
 export default function CountDown() {
   return (
-    <Card sx={{ minWidth: { md: 250 }, minHeight: { md: 250 } ,marginTop: }}>
+    <Card sx={{ minWidth: { md: 250 }, minHeight: { md: 250 } }}>
       <CardContent>
         <Typography>校车发车时间</Typography>
       </CardContent>
